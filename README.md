@@ -6,6 +6,13 @@
 
 Zindi connects professional organisations around the world with a thriving African Data Science community to use machine learning and AI to solve challanges to can help those organisation make professional decisions.
 
-The competition instructed us to predict the time it will take riders to deliver orders for a logistics company called sendy. 
+The competition instructs to predict the time it will take riders to deliver orders for a logistics company called sendy, by building a machine learning model. 
 
+###### https://zindi.africa/hackathons/edsa-sendy-logistics-challenge
+
+The metric that was used for this this competition was the Root Mean Squared error (RMSE) with a passmark if your RMSE is below 800 (50% achieved at 799 and 100% achieved for a RMSE of 730 and below). 
+
+I personally obtained an RMSE score of 750 with a position rank of 40 out of 275 individuals/groups that participated in this competion.
+
+The latter link above takes you to the actual competition. You will be able to click on the leaderboard and see my profile at positio 40
 
