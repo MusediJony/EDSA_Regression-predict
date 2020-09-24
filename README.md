@@ -14,5 +14,5 @@ The metric that was used for this this competition was the Root Mean Squared err
 
 I personally obtained an RMSE score of 750 with a position rank of 40 out of 275 individuals/groups that participated in this competion.
 
-The latter link above takes you to the actual competition. You will be able to click on the leaderboard and see my profile at positio 40
+The latter link above takes you to the actual competition. You will be able to click on the leaderboard and see my profile at position 40
 
