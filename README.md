@@ -12,7 +12,7 @@ The competition instructs to predict the time it will take riders to deliver ord
 
 The metric that was used for this this competition was the Root Mean Squared error (RMSE) with a passmark if your RMSE is below 800 (50% achieved at 799 and 100% achieved for a RMSE of 730 and below). 
 
-I personally obtained an RMSE score of 750 with a position rank of 40 out of 275 individuals/groups that participated in this competion.
+I personally obtained an RMSE score of 750 with a position rank of 40 out of 275 individuals/groups that participated in the competion.
 
-The latter link above takes you to the actual competition. You will be able to click on the leaderboard and see my profile at position 40
+The latter link above takes you to the actual competition. You can then click on the leaderboard and see my profile at position 40.
 
