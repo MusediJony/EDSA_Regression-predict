@@ -16,7 +16,7 @@ I personally obtained an RMSE score of 750 with a position rank of 40 out of 275
 
 The latter link above takes you to the actual competition. You can then click on the leaderboard and see my profile at position 40.
 
-A recorded presentation of the report was conducted and submitted and a final mark of 94% was obtained.
+A recorded presentation of the report was also conducted, and submitted and a final mark of 94% was obtained.
 
 The report features the general procedure of intro, body and conclusion about the predict/competition, along with the necessary and/or general procedure to conduct a Regression applied project. 
 
