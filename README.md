@@ -24,7 +24,7 @@ I had built 4 different regression models: Linear, Regression, Lasso and Random 
 
 I chose Random forest as the best performing model due it it giving me the lowesr RMSE score out of all four. Do note however, for that to be achieved, I had to perform hyperparameter tuning, or else it would be the worst performing model.
 
-It's also wise to mentioned that the RMSE score obtained on the report is different to that of the RMSE score obtained on Zindy. This is because on the report cross validation was needed to be conducted on the whole train data set as a guide for our predicted values . 
+It's also wise to mentioned that the RMSE score obtained on the report is different to that of the RMSE score obtained on Zindy. This is due to the fact that on the report, cross validation was needed to be conducted on the whole train data set as a guide for our predicted values . 
 
 The predicted values were then submitted to Zindy as a csv file to be compared to the y_test (ground truth) to then obtain our final RMSE score on Zindy.
 
