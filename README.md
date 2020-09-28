@@ -6,7 +6,7 @@
 
 Zindi connects professional organisations around the world with a thriving African Data Science community to use machine learning and AI to solve challanges that can help those organisation make professional decisions.
 
-The competition instructs to predict the time it will take riders to deliver orders for a logistics company called sendy, by building a machine learning model. 
+The competition instructs the competitor to predict the time it will take riders to deliver orders for a logistics company called Sendy, by building a machine learning model. 
 
 ###### https://zindi.africa/hackathons/edsa-sendy-logistics-challenge
 
