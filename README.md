@@ -18,7 +18,7 @@ The latter link above takes you to the actual competition. You can then click on
 
 A recorded presentation of the report was also conducted, and submitted and a final mark of 94% was obtained (Evaluated by EDSA).
 
-The report features the general procedure of intro, body and conclusion about the predict/competition, along with the necessary and/or general procedure to conduct a Regression applied project. 
+The report features the general procedure of introduction, body and conclusion about the predict/competition, along with the necessary and/or general procedure to conduct a Regression applied project. 
 
 I had built 4 different regression models: Linear, Regression, Lasso and Random forest. 
 
