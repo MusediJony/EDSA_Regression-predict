@@ -20,7 +20,7 @@ A recorded presentation of the report was also conducted, and submitted and a fi
 
 The report features the general procedure of introduction, body and conclusion about the predict/competition, along with the necessary and/or general procedure to conduct a Regression applied project. 
 
-I had built 4 different regression models: Linear, Regression, Lasso and Random forest. 
+I had built 4 different regression models: Linear, Ridge, Lasso and Random forest. 
 
 I chose Random forest as the best performing model due it it giving me the lowesr RMSE score out of all four. Do note however, for that to be achieved, I had to perform hyperparameter tuning, or else it would be the worst performing model.
 
