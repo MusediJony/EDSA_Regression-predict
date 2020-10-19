@@ -26,7 +26,7 @@ I chose Random forest as the best performing model due to it giving me the lowes
 
 It's also wise to mentioned that the RMSE score obtained on the report/notebook is different to that of the RMSE score obtained on Zindy. This is due to the fact that on the report, cross validation was needed to be conducted on the whole train data set as a guide for our predicted values . 
 
-The predicted values were then submitted to Zindy as a csv file to be compared to the y_test (ground truth) to then obtain our final RMSE score on Zindy.
+The predicted values were then submitted to Zindy as a csv file to be compared to the y_test (ground truth) of the test data set to then obtain our final RMSE score on Zindy.
 
 
 
