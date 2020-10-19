@@ -2,11 +2,11 @@
 
 ## This Repository is one created for the Regression project by Explore Data Science Academy.
 
-### The project was conducted on Zindi, https://zindi.africa/, an online platform that hosts competitions. 
+### The project is a competition (Hackathon challenge) held on on Zindi, https://zindi.africa/, an online platform that hosts competitions. 
 
 Zindi connects professional organisations around the world with a thriving African Data Science community to use machine learning and AI to solve challanges that can help those organisation make professional decisions.
 
-The competition instructs the competitor to predict the time it will take riders to deliver orders for a logistics company called Sendy, by building a machine learning model. 
+The challenge instructs the competitor to predict the time it will take riders to deliver orders for a logistics company called Sendy, by building a machine learning model. 
 
 ###### https://zindi.africa/hackathons/edsa-sendy-logistics-challenge
 
@@ -22,7 +22,7 @@ The report features the general procedure of introduction, body and conclusion a
 
 I had built 4 different regression models: Linear, Ridge, Lasso and Random forest. 
 
-I chose Random forest as the best performing model due it it giving me the lowesr RMSE score out of all four. Do note however, for that to be achieved, I had to perform hyperparameter tuning, or else it would be the worst performing model.
+I chose Random forest as the best performing model due to it giving me the lowesr RMSE score out of all four. Do note however, for that to be achieved, I had to perform hyperparameter tuning, or else it would be the worst performing model.
 
 It's also wise to mentioned that the RMSE score obtained on the report is different to that of the RMSE score obtained on Zindy. This is due to the fact that on the report, cross validation was needed to be conducted on the whole train data set as a guide for our predicted values . 
 
